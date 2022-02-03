@@ -5,7 +5,7 @@
 
 ### running the application
 
-- a demo version of the app can be found [here](cademichael.github.io/public/index.html)
+- a demo version of the app can be found [here](https://cademichael.github.io/public/index.html)
 - to run the app locally 
   - clone the repo
   - cd into the directory
